@@ -1,0 +1,26 @@
+.container{
+margin-bottom: 100px;
+}
+
+#seeall{
+    text-decoration: none;
+    color: orange;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.box:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.box{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;}
+
+::-webkit-scrollbar {
+    display: none;
+}
